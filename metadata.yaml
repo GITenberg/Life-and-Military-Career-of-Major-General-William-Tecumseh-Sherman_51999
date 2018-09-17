@@ -1,0 +1,26 @@
+_repo: Life-and-Military-Career-of-Major-General-William-Tecumseh-Sherman_51999
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Headley, P. C. (Phineas Camp)
+    alias: Headley, Phineas Camp
+    birthdate: 1819
+    deathdate: 1903
+    gutenberg_agent_id: '31280'
+    url: http://www.gutenberg.org/2009/agents/31280
+description: ''
+gutenberg_issued: '2016-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51999'
+  lccn: '12034103'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sherman, William T. (William Tecumseh), 1820-1891'
+- !lcc 'E456'
+- GITenberg
+title: Life and Military Career of Major-General William Tecumseh Sherman
+url: http://www.gutenberg.org/ebooks/51999
